@@ -1,5 +1,6 @@
 # Documentação Técnica - Projeto Cypress
 
+![image](/assets/img.png)
 Este documento fornece uma visão geral técnica do projeto Cypress para a automação do teste do Google Tradutor.
 
 ## Objetivo do Teste
